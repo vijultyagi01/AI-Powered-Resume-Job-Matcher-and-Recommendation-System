@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+plotly
+matplotlib
+seaborn
+joblib
+smtplib
+email-validator
+python-docx
+pdfplumber
+PyMuPDF
+openpyxl
